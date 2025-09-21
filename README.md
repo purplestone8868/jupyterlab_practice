@@ -6,8 +6,8 @@ It includes:
 - `question11.ipynb`: Jupyter notebook for Question 11  
 - `question12.ipynb`: Jupyter notebook for Question 12  
 - `question12.html`: HTML export of Question 12 notebook  
-- `question 11 Screenshot image for submission
-- `question 12 screenshot image for submission
+- question 11 Screenshot image for submission
+- question 12 screenshot image for submission
 - `environment.yaml`: Conda environment export
 
 Branch `developer-1` was used for development and merged into `main`.
